@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+  margin-top: 20px;
+}
+#filter-emoji {
+  height: 35px;
+  width: 80%;
+}
+span {
+  cursor: pointer;
+  padding: 5px;
+  line-height: 35px;
+}
